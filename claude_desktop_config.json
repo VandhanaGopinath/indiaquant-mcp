@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "indiaquant": {
+      "command": "C:\\Users\\Vandhana\\Downloads\\indiaquant-mcp\\venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\Vandhana\\Downloads\\indiaquant-mcp\\indiaquant-mcp\\server.py"],
+      "env": {
+        "NEWSAPI_KEY": "b0a41656c1c943f2a82b4458cbe9eba3",
+        "PYTHONPATH": "C:\\Users\\Vandhana\\Downloads\\indiaquant-mcp\\indiaquant-mcp"
+      }
+    }
+  }
+}
