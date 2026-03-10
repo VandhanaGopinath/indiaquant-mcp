@@ -4,6 +4,21 @@
 > Built with 100% free APIs. No broker account required. No mock data.
 
 ---
+# Screenshots
+IndiaQuant Connected in Claude Desktop
+
+![1](https://github.com/user-attachments/assets/f276bb0c-5737-4ef8-b086-15a413448c80)
+
+
+Live Market Scan : Oversold IT Stocks
+
+![2](https://github.com/user-attachments/assets/d15fe2a0-0874-465e-90aa-c80a8d101f91)
+
+
+Composite Signal Analysis with Caution Flags
+
+![3](https://github.com/user-attachments/assets/22dd299b-74ce-4d83-9aab-ef8503abd20a)
+
 
 ## What It Does
 
