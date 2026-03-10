@@ -302,5 +302,3 @@ For cloud deployment, switch from stdio to SSE transport (update `server.py` acc
 
 ---
 
-## License
-
