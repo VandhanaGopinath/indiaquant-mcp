@@ -10,7 +10,6 @@ from datetime import datetime, date
 
 from src.modules.options_engine import (
     fetch_options_chain,
-    calculate_greeks as _bs_greeks,
     black_scholes_greeks,
     implied_volatility_bisection,
     detect_unusual_options_activity
