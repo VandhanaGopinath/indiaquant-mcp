@@ -4,7 +4,20 @@
 > Built with 100% free APIs. No broker account required. No mock data.
 
 ---
-# Screenshots
+## What It Does
+
+IndiaQuant MCP gives Claude full awareness of live Indian markets. Ask it anything:
+
+```
+"Should I buy Reliance right now?"
+"What's the max pain for Nifty this expiry?"
+"Show me oversold IT stocks with RSI below 30"
+"Place a virtual buy of 10 shares of HDFCBANK"
+"Is there unusual options activity on Infosys?"
+```
+
+---
+## Screenshots
 IndiaQuant Connected in Claude Desktop
 
 ![1](https://github.com/user-attachments/assets/f276bb0c-5737-4ef8-b086-15a413448c80)
@@ -20,19 +33,6 @@ Composite Signal Analysis with Caution Flags
 ![3](https://github.com/user-attachments/assets/22dd299b-74ce-4d83-9aab-ef8503abd20a)
 
 
-## What It Does
-
-IndiaQuant MCP gives Claude full awareness of live Indian markets. Ask it anything:
-
-```
-"Should I buy Reliance right now?"
-"What's the max pain for Nifty this expiry?"
-"Show me oversold IT stocks with RSI below 30"
-"Place a virtual buy of 10 shares of HDFCBANK"
-"Is there unusual options activity on Infosys?"
-```
-
----
 
 ## Architecture
 
